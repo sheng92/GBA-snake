@@ -1,6 +1,5 @@
 Snake
 =====
-*Sheng Jiang*
 
 Overview
 --------
